@@ -5,6 +5,7 @@ import axios from "axios";
 import Charts from "./components/Charts";
 import Navbar from "./components/Navbar";
 
+//imported and fetched styles data
 import "./styles.scss";
 
 const App = () => {
